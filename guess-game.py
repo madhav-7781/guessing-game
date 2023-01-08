@@ -16,3 +16,4 @@ else:
         print("Well done you guessed it correct!")
     else:
         print("Sorry, you lose!")
+        print("Correct guess was {}".format(answer))
