@@ -15,5 +15,5 @@ else:
     if guess_no == answer:
         print("Well done you guessed it correct!")
     else:
-        print("Sorry, you lose!")
-        print("Correct guess was {}".format(answer))
+        print("Sorry! You lose")
+        print("Correct answer was {}".format(answer))
